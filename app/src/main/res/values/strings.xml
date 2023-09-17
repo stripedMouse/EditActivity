@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EditActivity</string>
+    <string name="next_image">Next image</string>
+    <string name="title">Title</string>
+    <string name="discription">Discription</string>
+    <string name="done">Done</string>
+    <string name="add_plant">Add plant</string>
+</resources>
